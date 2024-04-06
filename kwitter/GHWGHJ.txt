@@ -1,0 +1,11 @@
+const firebaseConfig = {
+  apiKey: "AIzaSyCrxeCi9IgLvQFAS8yj5dmKBPc7GBIgSdE",
+  authDomain: "y-database-c47a3.firebaseapp.com",
+  projectId: "y-database-c47a3",
+  storageBucket: "y-database-c47a3.appspot.com",
+  messagingSenderId: "851030075038",
+  appId: "1:851030075038:web:2f42d036ec3d5c32af3d8f"
+};
+
+
+const app = initializeApp(firebaseConfig);
